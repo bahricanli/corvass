@@ -22,9 +22,9 @@
     "require": {
         "php": ">=7",
         "bahricanli/corvass-php": "^1.1",
-        "illuminate/notifications": "^8.0|^9.0|^10.0|^11.0",
-        "illuminate/queue": "^8.0|^9.0|^10.0|^11.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0"
+        "illuminate/notifications": ">=5.5",
+        "illuminate/queue": ">=5.5",
+        "illuminate/support": ">=5.5"
     },
     "require-dev": {
         "mockery/mockery": "^0.9.5",
